@@ -117,7 +117,8 @@ class letterProcessor():
             self.mytext = self.mytext[0:place]+'Q'+self.mytext[place+len(mystring):]
 
     def qwertyconvert(self):
-        """Converts each letter in self.mytext to qwerty"""
+        """Converts each letter in self.mytext to qwerty. This also takes too
+        long, for the same reason as removetags()."""
         realtext = ''
         for letter in self.mytext:
             realtext = realtext + self.getqwerty(letter)
