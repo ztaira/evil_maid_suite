@@ -50,20 +50,52 @@ processing.
 
 ### Keystrokes Over Time (Script 1)
 
+Interesting Tidbit: The flat line from June to August is where I got a work
+laptop. My keys are untracked during this time - there's no way I would want
+to mess with a machine that's not my own.
+
+Interesting Tidbit 2: The flat line in the middle of August is where I went on
+vacation with my family.
+
 ![alt text][outputimage1]
 [outputimage1]: https://github.com/ztaira14/evil_maid_suite/blob/master/diagrams/1KeystrokesOverTime.png "Keystrokes Over Time""
 
 ### Ratio Of Keys (Script 2)
+
+Interesting Tidbit 3: Since I use vim, the 'j' and 'k' keys are pressed far
+more than normal, as I use those to navigate through text files.
 
 ![alt text][outputimage2]
 [outputimage2]: https://github.com/ztaira14/evil_maid_suite/blob/master/diagrams/2RatioOfKeys.png "Ratio Of Keys""
 
 ### Number Of Keys Pressed (Script 3)
 
+Interesting Tidbit 4: "<" represents the "delete". I've pressed this more than
+any other single key.
+
+Interesting Tidbit 5: "D" represents the "down" key.  I use this key to scroll
+downwards when I'm reading articles on the internet or reading through text
+files on my laptop, so it makes sense that this would be the second most
+most common key.
+
+Interesting Tidbit 6: " " represents the space bar. This comes in third. No
+surprises here.
+
+Interesting Tidbit 7: "S" represents the Shift Key, which I've pressed fourth-
+most often.
+
+Interesting Tidbit 8: "V" represents the command key. This comes in fifth.
+
+Note: Which character represents which key can be found in the 0LogParser.py
+file.
+
 ![alt text][outputimage3]
 [outputimage3]: https://github.com/ztaira14/evil_maid_suite/blob/master/diagrams/3NumberOfKeys.png "Number Of Keys""
 
 ### Ratio Of Keys, Bar Form (Script 4)
+
+Interesting Tidbit 9: It's interesting to see graphically how far my use of
+the 'j' and 'k' keys has skewed the data set.
 
 ![alt text][outputimage4]
 [outputimage4]: https://github.com/ztaira14/evil_maid_suite/blob/master/diagrams/4RatioOfKeysBarForm.png "Ratio Of Keys, Bar Form""
