@@ -54,8 +54,8 @@ processing.
 ### Keystrokes Over Time (Script 1)
 
 Interesting Tidbit: The flat line from June to August is where I got a work
-laptop. My keys are untracked during this time - there's no way I would want
-to mess with a machine that's not my own.
+laptop. My keys are untracked during this time - there's no way I would mess
+with a machine that's not my own.
 
 Interesting Tidbit 2: The flat line in the middle of August is where I went on
 vacation with my family.
