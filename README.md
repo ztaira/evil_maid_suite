@@ -1,5 +1,5 @@
 # evil_maid_suite
-Hack-A-Week 10: Data on the time I keylogged myself
+Hack-A-Week 10: Data visualization on the time I keylogged myself
 
 ### Usage:
 - You can run any of the python files with `python [filename]`. However,
