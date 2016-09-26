@@ -1,6 +1,9 @@
 # evil_maid_suite
 Hack-A-Week 10: Data visualization on the time I keylogged myself
 
+Note: All keylogging was done ONLY on my personal laptop. I would never mess
+with a machine that's not my own.
+
 ### Usage:
 - You can run any of the python files with `python [filename]`. However,
 I've included the graphs below so you can view the data more easily.
